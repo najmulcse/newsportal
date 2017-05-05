@@ -1,0 +1,20 @@
+ .fc,.btn{
+	margin:5px 0px 5px 0px;
+	height: 40px;
+}
+
+.header_area{
+	border-bottom: 0.5px dashed black;
+}
+.image_position{
+
+	 min-width: 100%;
+	 min-height: 200px;
+}
+
+
+.image_size_compression{
+	min-width: 100%; 
+	min-height: 180px; 
+	max-height: 180px;"
+}
